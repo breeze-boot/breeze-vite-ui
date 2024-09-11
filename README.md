@@ -2,7 +2,14 @@
 
 ### 平台简介
 
-##### Breeze-vite-ui 是基于Vue 3 + TypeScript + Vite + Element Plus
+##### Breeze-vite-ui 是一个基于 Vue 3、TypeScript、Vite 和 Element Plus 的权限管理平台。它提供了现代化的用户界面，适用于构建和管理权限系统。
+
+- 前端采用Vue、Element UI PLUS、VITE、TypeScript、bpmn-process-designer（bpmjs）。
+- 支持按钮级别的权限控制。
+- 支持加载动态权限菜单。
+- 后端代码，请移步。
+    - [github JDK8](https://github.com/Memory1998/breeze-boot.git)
+    - [gitee JDK8](https://gitee.com/memoryGiter/breeze-boot.git)
 
 ## 推荐的开发环境配置
 
@@ -27,6 +34,7 @@ TypeScript 默认无法处理 .vue 导入的类型信息，因此我们将 tsc C
 - [验证码： https://gitee.com/anji-plus/captcha](https://gitee.com/anji-plus/captcha)
 - [流程设计器： https://gitee.com/MiyueSC/bpmn-process-designer](https://gitee.com/MiyueSC/bpmn-process-designer)
 - [流程设计器：VUE3版本 https://gitee.com/xlys998/bpmn-vue3](https://gitee.com/xlys998/bpmn-vue3)
+- [cron表达式编辑器：VUE3版本 https://github.com/wuchuanpeng/no-vue3-cron](https://github.com/wuchuanpeng/no-vue3-cron)
 
 # 请遵循 Apache 2.0 协议
 
