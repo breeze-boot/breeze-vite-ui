@@ -8,8 +8,8 @@
 - 支持按钮级别的权限控制。
 - 支持加载动态权限菜单。
 - 后端代码，请移步。
-  - [github JDK8](https://github.com/Memory1998/breeze-boot.git)
-  - [gitee JDK8](https://gitee.com/memoryGiter/breeze-boot.git)
+  - [github JDK8](https://github.com/breeze-boot/breeze-boot.git)
+  - [gitee JDK8](https://gitee.com/breeze-boot/breeze-boot.git)
 
 ## 推荐的开发环境配置
 
