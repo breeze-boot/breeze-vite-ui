@@ -25,8 +25,9 @@ export interface UserState {
  */
 export interface MenuState {
   initMenu: boolean
+  currentMenu: RouteRecordRaw
   menuRoutes: RouteRecordRaw[]
-  mixMenuRoutes: RouteRecordRaw[]
+  subMenuRoutes: RouteRecordRaw[]
 }
 
 /**
